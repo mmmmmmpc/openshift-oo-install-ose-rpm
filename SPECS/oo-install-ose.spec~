@@ -18,7 +18,7 @@ Provides:	oo-install-ose
 %global debug_package %{nil}
 
 %description
-OpenShift Enterprise Installer unofficial RPM package
+System deployer
 
 %prep
 %setup -q -c
